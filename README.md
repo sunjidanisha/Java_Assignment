@@ -69,5 +69,7 @@ This project features solutions to various Java programming assignments, coverin
 ### Report File
 
 If applicable, results and observations can be saved to a report file located in the project directory for further analysis.
-**For Better view** [Click to open the report]([https://docs.google.com/spreadsheets/d/1OeT2kSsjCdAc8ddbsu6L5CLx_GTFAu7l/edit?usp=sharing&ouid=116335755195100288842&rtpof=true&sd=true](https://docs.google.com/document/d/1vSTLs0SKSuHU9NNGvFlId35xyR9GOtj6Flh2sPEqlYA/edit?tab=t.0))
+For a better view of the report, click the link below:
+
+[ Click here to View Report](https://docs.google.com/document/d/1vSTLs0SKSuHU9NNGvFlId35xyR9GOtj6Flh2sPEqlYA/edit?tab=t.0)
 
